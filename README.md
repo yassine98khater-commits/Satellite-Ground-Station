@@ -14,4 +14,4 @@ Ce projet consiste en la finalisation d'une station sol de communication satelli
 * **Concepts** : Mécatronique, Asservissement, Traitement de signal.
 
 ## Architecture du système
-![Architecture du système](Screenshot 2026-01-09 01.47.44.png)
+![Architecture du système](Screenshot%202026-01-09%2001.47.44.png)
