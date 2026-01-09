@@ -14,4 +14,4 @@ Ce projet consiste en la finalisation d'une station sol de communication satelli
 * **Concepts** : Mécatronique, Asservissement, Traitement de signal.
 
 ## Architecture du système
-[Image de l'architecture du système : Antenne -> SDR -> Traitement GNU Radio -> Client GPredict]
+[Screenshot 2026-01-09 01.47.44.png]
